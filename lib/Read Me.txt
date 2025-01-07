@@ -1,0 +1,1 @@
+Projede kullandığımız javascript kütüphaneleri
